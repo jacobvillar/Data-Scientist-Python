@@ -1,5 +1,18 @@
 git init 
+
+1. Clone Repository from Github
+
+git clone https://github.com/career-karma-tutorials/ck-git
+
+
+2. Adding files 
+
 git add notes.txt
 git commit -m "add personal comment" 
 git remote add origin `add github link`
 git push -u origin main
+
+3. Others
+
+* Check status * 
+git status 
